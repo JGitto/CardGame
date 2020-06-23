@@ -1,5 +1,5 @@
 fun main() {
-    // Jacob is smoll brain
+    // Luc is smoll brain
     val lambda = { peter: String, Johnny: Int ->
         if (true) 552 else 3
         val r = 33
