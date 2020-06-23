@@ -2,7 +2,7 @@ fun main() {
 
     val lambda = { peter: String, Johnny: Int ->
         if (true) 5 else 3
-        val r = 9066
+        val r = 33
         r
     }
 
